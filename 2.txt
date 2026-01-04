@@ -1,17 +1,122 @@
-Country	Source	Generation
-India	Solar	149.23
-India	Wind	139.88
-India	Hydro	101.87
-Brazil	Solar	125.67
-Brazil	Wind	142.18
-Brazil	Hydro	108.34
-Kenya	Solar	134.54
-Kenya	Wind	128.77
-Kenya	Hydro	95.12
-Vietnam	Solar	122.41
-Vietnam	Wind	145.09
-Vietnam	Hydro	107.66
-Ethiopia	Solar	92.33
-Ethiopia	Wind	138.21
-Ethiopia	Hydro	112.45
+
+1. Employment & Labour Force Indicators (OECD & ILO)
+OECD Employment & Participation (Latest; Q4 2024 / early 2025)
+Indicator	Value / Insight
+OECD employment rate (15–64)	~70.2 % (Q4 2024) — near record highs in most countries OECD
+
+OECD labour force participation (15–64)	~73.9 % — also near historical highs OECD
+
+OECD unemployment rate (early 2025)	~4.8 %
+Employment rate above 80 %	Switzerland, Netherlands, Iceland OECD
+
+Lowest OECD employment rate	Türkiye (~55 %) OECD
+
+These statistics cover 38 OECD countries with detailed breakdowns by age, sex, and status (full time, part time, unemployment duration). More detailed data is available via the OECD Employment Database on everything from job tenure to part time intensity. OECD
+________________________________________
+2. Global Labour Force Metrics (ILOSTAT)
+The ILOSTAT database (ILO’s comprehensive labour statistics platform) provides harmonized data for ~189 countries, including: ILOSTAT
+Key Global Indicators (2024–2025)
+Metric	World Estimate
+Labour force participation rate	~61.0 % International Labour Organization
+
+Unemployment rate	~5.0 % International Labour Organization
+
+Working poverty rate	~6.9 % International Labour Organization
+
+Informal employment share	~57.8 % International Labour Organization
+
+These figures are global estimates that include developed and developing economies, and can be disaggregated by region, sex, age group, and income group using the ILOSTAT data tools. ILOSTAT
+________________________________________
+3. Working Hours & Time Use
+Average Weekly Hours (World / Regions)
+Based on ILO modelled estimates, average weekly hours differ widely by region: scribd.com
+Region	Average Weekly Hours (Workers)
+World	~37.3 hrs scribd.com
+
+North America	~32.5 hrs scribd.com
+
+Sub Saharan Africa	~34.6 hrs scribd.com
+
+East Asia	~43.4 hrs scribd.com
+
+Arab States	~33.9 hrs scribd.com
+
+South Asia	~49.7 hrs scribd.com
+
+These show that workers in South Asia and East Asia tend to put in the highest average weekly hours globally. scribd.com
+OECD Annual Hours Worked
+For comparison, OECD member countries report different annual hours (full time equivalent): Wikipedia
+OECD Country	Annual Hours (latest)
+Colombia	~2,405 hrs Wikipedia
+
+Mexico	~2,405 hrs Wikipedia
+
+Chile	~1,962 hrs Wikipedia
+
+Canada	~1,686 hrs Wikipedia
+
+Belgium	~1,525 hrs Wikipedia
+
+Austria	~1,443 hrs Wikipedia
+
+Germany	~1,340 hrs Wikipedia
+
+________________________________________
+4. Wages, Earnings & Wage Growth
+OECD Wage Trends (2025 Outlook)
+•	Real wage growth (average) across OECD: ~2.5 % in early 2025. OECD
+•	Minimum wage increases: real minimum wages rose ~7.9 % on average across OECD countries with statutory minimum wages. OECD
+•	Wages for lowest paid workers showed resilience compared with median wages post pandemic. OECD
+________________________________________
+5. Additional High Resolution Data Sources
+For deeper data that includes country by country statistics across many indicators:
+ILOSTAT Detailed Datasets (Free)
+ILOSTAT allows download of >250M data points for indicators such as: ILOSTAT
+•	Labour force participation rate by age/sex per country
+•	Employment to population ratio
+•	Unemployment rate by country (and youth vs adult)
+•	Informal employment rates
+•	Earnings and monthly employee earnings
+•	Detailed datasets in CSV via bulk download
+This is ideal for full global tables and time series. ILOSTAT
+World Bank Gender Disaggregated Labour Database (GDLD)
+The GDLD dataset includes:
+•	Detailed employment by occupation and sector
+•	Wage and income data by sex
+•	Micro level harmonized labour force stats from >100 countries Data Topics
+
+ILOSTAT indicators (annual values per country) such as:
+•	Labour force participation
+•	Employment rates
+•	Unemployment
+•	Working poverty
+•	Earnings indicators
+OECD Employment Data (for high income detailed labour market structure):
+•	Employment by status (full/part–time)
+•	Job tenure, job status
+•	Hours worked distribution & earnings deciles
+World Bank GDLD:
+•	Wage and income distributions
+•	Gender wage gaps
+•	Sectoral employment breakdowns
+________________________________________
+Example Structure for a Detailed Country Table
+
+| Country | Labour Force Participation (%) | Employment Rate (%) | Unemployment (%) | Avg Weekly Hours | Avg Monthly Earnings (local) | Female Workforce (%) | Informal % | Youth Unemployment (%) | Working Poverty (%) |
+
+________________________________________
+Summary of Key Global Figures
+Indicator	Global / OECD Estimate
+Labour force participation (global)	~61.0 % International Labour Organization
+
+Employment rate (OECD avg)	~70.2 % OECD
+
+Unemployment (OECD)	~4.8 % OECD
+
+Informal employment (global)	~57.8 % International Labour Organization
+
+Working poverty (global)	~6.9 % International Labour Organization
+
+Avg weekly hours (East Asia)	~43.4 hrs scribd.com
+
 
