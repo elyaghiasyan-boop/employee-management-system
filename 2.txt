@@ -1,0 +1,17 @@
+Country	Source	Generation
+India	Solar	149.23
+India	Wind	139.88
+India	Hydro	101.87
+Brazil	Solar	125.67
+Brazil	Wind	142.18
+Brazil	Hydro	108.34
+Kenya	Solar	134.54
+Kenya	Wind	128.77
+Kenya	Hydro	95.12
+Vietnam	Solar	122.41
+Vietnam	Wind	145.09
+Vietnam	Hydro	107.66
+Ethiopia	Solar	92.33
+Ethiopia	Wind	138.21
+Ethiopia	Hydro	112.45
+

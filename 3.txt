@@ -1,0 +1,20 @@
+--- ENERGY GENERATION TABLE ---
+                     avg_generation  total_generation
+country  source                                      
+Brazil   Hydro                  108.34            108.34
+         Solar                  125.67            125.67
+         Wind                   142.18            142.18
+Ethiopia Hydro                  112.45            112.45
+         Solar                   92.33             92.33
+         Wind                   138.21            138.21
+India    Hydro                  101.87            101.87
+         Solar                  149.23            149.23
+         Wind                   139.88            139.88
+Kenya    Hydro                   95.12             95.12
+         Solar                  134.54            134.54
+         Wind                   128.77            128.77
+Vietnam  Hydro                  107.66            107.66
+         Solar                  122.41            122.41
+         Wind                   145.09            145.09
+
+TOTAL ENERGY GENERATED 1743.83 TWh

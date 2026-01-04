@@ -1,0 +1,23 @@
+FULL ENERGY ANALYSIS REPORT
+
+
+STATISTICS:
+mean: 122.99
+median: 122.41
+variance: 530.15
+stdev: 23.02
+min: 92.33
+max: 149.23
+
+NUMPY SUMMARY:
+mean: 122.99
+std: 23.02
+var: 530.15
+percentiles: [107.66, 122.41, 138.21]
+
+SOURCE COUNTER:
+Solar: 5
+Wind: 5
+Hydro: 5
+
+ROLLING AVERAGE (LAST 5): 132.39
