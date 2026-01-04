@@ -1,20 +1,139 @@
---- ENERGY GENERATION TABLE ---
-                     avg_generation  total_generation
-country  source                                      
-Brazil   Hydro                  108.34            108.34
-         Solar                  125.67            125.67
-         Wind                   142.18            142.18
-Ethiopia Hydro                  112.45            112.45
-         Solar                   92.33             92.33
-         Wind                   138.21            138.21
-India    Hydro                  101.87            101.87
-         Solar                  149.23            149.23
-         Wind                   139.88            139.88
-Kenya    Hydro                   95.12             95.12
-         Solar                  134.54            134.54
-         Wind                   128.77            128.77
-Vietnam  Hydro                  107.66            107.66
-         Solar                  122.41            122.41
-         Wind                   145.09            145.09
+1. Key Features of an Employee Management System (EMS)
 
-TOTAL ENERGY GENERATED 1743.83 TWh
+An EMS is designed to manage, automate, and optimize HR and employee-related processes in an organization. It typically includes the following modules:
+
+1.1 Employee Records Management
+
+Purpose: Maintain a complete and organized database of all employees.
+
+Key Functionalities:
+
+Personal Information:
+
+Full name, date of birth, gender, contact details (phone, email, address).
+
+Emergency contacts and identification information (passport, national ID, etc.).
+
+Job Information:
+
+Job title, department, manager or supervisor.
+
+Hire date, employment type (full-time, part-time, contract).
+
+Work location, shift schedule, and reporting structure.
+
+Salary and Benefits:
+
+Basic salary, bonuses, allowances.
+
+Health insurance, retirement plans, and other perks.
+
+Benefits:
+
+Provides HR teams with a centralized view of all employees.
+
+Supports quick access to employee history and credentials.
+
+1.2 Attendance & Leave Management
+
+Purpose: Track employee work hours and manage time-off requests efficiently.
+
+Key Functionalities:
+
+Attendance Tracking:
+
+Record daily clock-in and clock-out times.
+
+Track late arrivals, early departures, and absences.
+
+Leave Management:
+
+Manage requests for sick leave, vacation, maternity/paternity leave, or other leave types.
+
+Automatically calculate remaining leave balance.
+
+Approve or reject leave requests based on company policy.
+
+Benefits:
+
+Ensures accurate employee time tracking.
+
+Reduces manual paperwork and errors in leave calculations.
+
+1.3 Performance Tracking
+
+Purpose: Evaluate and monitor employee performance over time.
+
+Key Functionalities:
+
+Performance Reviews:
+
+Record periodic evaluations (quarterly, semi-annual, annual).
+
+Track feedback from managers, peers, and self-assessment.
+
+Goals & KPIs (Key Performance Indicators):
+
+Set employee goals aligned with organizational objectives.
+
+Track progress and completion of assigned tasks.
+
+Benefits:
+
+Supports data-driven performance appraisals.
+
+Helps identify high performers for promotions or rewards.
+
+Provides insights for employee training and development.
+
+1.4 Payroll Management
+
+Purpose: Automate salary calculation and ensure accurate compensation.
+
+Key Functionalities:
+
+Salary Calculation:
+
+Compute basic salary plus overtime, allowances, and bonuses.
+
+Deduct taxes, insurance, retirement contributions, and other deductions.
+
+Pay Slip Generation:
+
+Automatically generate detailed pay slips for employees.
+
+Maintain historical payroll records for auditing purposes.
+
+Benefits:
+
+Ensures timely and accurate salary payments.
+
+Reduces manual payroll errors and administrative workload.
+
+1.5 Reporting & Analytics
+
+Purpose: Generate insights and reports for management decisions.
+
+Key Functionalities:
+
+Employee Lists:
+
+Generate lists filtered by department, job title, or location.
+
+Department-Wise Summaries:
+
+Overview of headcount, average salary, total hours worked, or leave statistics.
+
+Performance Metrics:
+
+Track departmental or individual performance trends over time.
+
+Identify skill gaps, training needs, or areas for improvement.
+
+Benefits:
+
+Enables strategic workforce planning.
+
+Provides data-driven insights for HR and management decisions.
+
+Supports compliance with labor laws and reporting requirements.
